@@ -1,0 +1,2 @@
+# youtube_serach_result_collecter
+youtubeでシークレットモードにて検索した画面上に乗っているチャンネルの情報を検索画面の順番どおりにとってくる方法
